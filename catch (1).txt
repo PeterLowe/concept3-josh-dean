@@ -1,7 +1,7 @@
-Title
+Title Rhythm Catch 
 ...
 Elavator Pitch
-...
+... This game will have the formula of a catch game with a the sliding sprite at the bottom of the screen but it will be rhythm focused, the things falling will have different colours and create different sounds. you will be playing along with a song, having to catch the correct notes at certain stages of the song, which will be indicated to the player
 30 second  gameplay description
 ...
 Pillars
