@@ -13,12 +13,17 @@ Elavator Pitch
 ...
 30 second  gameplay description
 ...
+
  The game starts off with a bgm going off as the player assumes control of an instrument, the 
  player will then try catch notes falling down that are a similar colour to the sprite the player
  is using, Catching the notes will make a beat and the goal is to catch notes to play a full song
  and get a high score
 ...
+
 Pillars
-... The main pillars of this game will be good music, part being orginal creations the other music will have to be bought liceneces of. There will have to be good sprite designs and animations, the sprites will be intruements that play when they catch the note. difficulty will also be important, there will be multiple levels of difficulty creating longevity in the game. 
+... The main pillars of this game will be music, difficulty and smooth sprite animations. music will be partly original and also licenced music. 
+The sprites will be instruement that play music when they catch the notes, need to be satifying for the player. 
+Difficulty will be increased over time or through levels. 
+>>>>>>> josh
 Features
 ...
