@@ -27,3 +27,6 @@ Difficulty will be increased over time or through levels.
 >>>>>>> josh
 Features
 ...
+ Full mod support, catchy music, ability to create own songs in custom mode, easy and hard modes, 
+ fast and slow gameplay
+...
