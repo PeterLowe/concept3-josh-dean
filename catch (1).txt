@@ -10,7 +10,13 @@ Elavator Pitch
  screen but it will be rhythm focused, the things falling will have different colours and create
  different sounds. you will be playing along with a song, having to catch the correct notes at 
  certain stages of the song, which will be indicated to the player
+...
 30 second  gameplay description
+...
+ The game starts off with a bgm going off as the player assumes control of an instrument, the 
+ player will then try catch notes falling down that are a similar colour to the sprite the player
+ is using, Catching the notes will make a beat and the goal is to catch notes to play a full song
+ and get a high score
 ...
 Pillars
 ...
